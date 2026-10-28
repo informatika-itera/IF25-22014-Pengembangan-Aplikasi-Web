@@ -1,0 +1,7 @@
+:root { --utama: hsl(252, 60%, 40%); }   /* pakai warna dari P3 */
+*, *::before, *::after { box-sizing: border-box; }
+body { margin: 0; font-family: sans-serif; line-height: 1.6; }
+
+/* TODO 2: gaya tabel: collapse, padding, kepala berwarna --utama, zebra, hover */
+
+/* TODO 4: header flexbox; main grid 1 kolom, 2 kolom mulai 768px, gap 8 + 2B px */

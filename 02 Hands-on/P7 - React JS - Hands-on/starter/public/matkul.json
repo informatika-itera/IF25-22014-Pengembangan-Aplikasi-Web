@@ -1,0 +1,8 @@
+[
+  { "kode": "IF25-22014", "nama": "Pengembangan Aplikasi Web", "sks": 3 },
+  { "kode": "IF25-22017", "nama": "Pengembangan Aplikasi Mobile", "sks": 3 },
+  { "kode": "IF25-21012", "nama": "Basis Data", "sks": 3 },
+  { "kode": "IF25-21020", "nama": "Jaringan Komputer", "sks": 3 },
+  { "kode": "IF25-21030", "nama": "Kecerdasan Buatan", "sks": 3 },
+  { "kode": "IF25-21040", "nama": "Rekayasa Perangkat Lunak", "sks": 3 }
+]

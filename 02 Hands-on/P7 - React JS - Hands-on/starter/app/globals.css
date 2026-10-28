@@ -1,0 +1,6 @@
+:root { --utama: hsl(252, 60%, 40%); }   /* ganti dengan warna dari NIM kalian (P3) */
+*, *::before, *::after { box-sizing: border-box; }
+body { margin: 0; padding: 24px; font-family: sans-serif; line-height: 1.6; }
+button { padding: 6px 14px; border-radius: 6px; border: 1px solid var(--utama); background: white; cursor: pointer; }
+button:disabled { opacity: 0.5; cursor: not-allowed; }
+[role="alert"] { color: #8C1515; }

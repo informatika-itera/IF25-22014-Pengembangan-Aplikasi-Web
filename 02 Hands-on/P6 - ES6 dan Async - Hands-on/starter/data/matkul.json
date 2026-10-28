@@ -1,0 +1,7 @@
+{
+  "matkul": [
+    { "nama": "Pengembangan Aplikasi Web", "sks": 3, "lab": "Lab 2" },
+    { "nama": "Pengembangan Aplikasi Mobile", "sks": 3, "lab": "Lab 3" },
+    { "nama": "Basis Data", "sks": 3, "lab": null }
+  ]
+}

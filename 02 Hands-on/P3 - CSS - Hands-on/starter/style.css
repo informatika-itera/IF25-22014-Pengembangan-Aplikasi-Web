@@ -1,0 +1,12 @@
+/* TODO 2: variabel --utama: hsl(36 x A, 60%, 40%) di :root, lalu pakai untuk h1, h2, dan latar nav */
+:root {
+}
+
+body {
+  margin: 0;
+  /* TODO tingkat 1: Google Font dengan cadangan, ukuran dasar 1rem, line-height 1.6 */
+}
+
+/* TODO 3: menu tanpa garis bawah, hover berubah warna; baris genap tabel berlatar terang */
+
+/* TODO 4: .kartu lebar tampil tepat 300px, padding (10 + B)px, border 2px, sudut 8px, jarak 12px */

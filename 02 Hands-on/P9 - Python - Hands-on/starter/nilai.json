@@ -1,0 +1,10 @@
+[
+  {"nim": "124140101", "nama": "Rani", "prodi": "IF", "khs": [
+    {"nama": "Pemweb", "sks": 3, "huruf": "A"}, {"nama": "PAM", "sks": 3, "huruf": "A"}, {"nama": "BD", "sks": 3, "huruf": "B"}]},
+  {"nim": "124140102", "nama": "Bima", "prodi": "IF", "khs": [
+    {"nama": "Pemweb", "sks": 3, "huruf": "B"}, {"nama": "Jarkom", "sks": 3, "huruf": "C"}]},
+  {"nim": "124150103", "nama": "Sari", "prodi": "SI", "khs": [
+    {"nama": "BD", "sks": 3, "huruf": "A"}, {"nama": "Pemweb", "sks": 3, "huruf": "A"}]},
+  {"nim": "124150104", "nama": "Tegar", "prodi": "SI", "khs": [
+    {"nama": "PAM", "sks": 3, "huruf": "B"}, {"nama": "AI", "sks": 3, "huruf": "A"}]}
+]
